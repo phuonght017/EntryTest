@@ -8,13 +8,13 @@
 python3 -m venv venv
 ```
 
-1. Activate the Virtual Environment
+2. Activate the Virtual Environment
 
 ```bash
 source venv/bin/activate
 ```
 
-1. Install dependencies
+3. Install dependencies
 
 ```bash
 pip install -r requirements.txt
