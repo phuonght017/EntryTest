@@ -1,0 +1,649 @@
+datetime,location,precip,conditions,icon,humidity,wind speed
+2025-03-25 00:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Quận Ba Đình, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Quận Hoàn Kiếm, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Đường Tây Hồ, 11207 Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Quận Long Biên, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Quận Cầu Giấy, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Quận Đống Đa, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Quận Hai Bà Trưng, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Quận Hoàng Mai, Hà Nội, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Xã Thanh Xuân, Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Thị Xã Sơn Tây, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Huyện Ba Vì, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Huyện Ba Vì, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Huyện Ba Vì, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Huyện Ba Vì, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Huyện Ba Vì, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Huyện Ba Vì, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Huyện Ba Vì, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Huyện Ba Vì, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Huyện Ba Vì, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Huyện Ba Vì, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Huyện Ba Vì, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Huyện Ba Vì, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Huyện Ba Vì, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Huyện Ba Vì, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Huyện Ba Vì, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Huyện Ba Vì, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Huyện Ba Vì, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Huyện Ba Vì, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Huyện Ba Vì, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Huyện Ba Vì, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Huyện Ba Vì, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Huyện Ba Vì, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Huyện Ba Vì, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Huyện Ba Vì, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Huyện Chương Mỹ, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Huyện Đan Phượng, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Huyện Đông Anh, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Huyện Đông Anh, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Huyện Đông Anh, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Huyện Đông Anh, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Huyện Đông Anh, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Huyện Đông Anh, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Huyện Đông Anh, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Huyện Đông Anh, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Huyện Đông Anh, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Huyện Đông Anh, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Huyện Đông Anh, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Huyện Đông Anh, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Huyện Đông Anh, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Huyện Đông Anh, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Huyện Đông Anh, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Huyện Đông Anh, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Huyện Đông Anh, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Huyện Đông Anh, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Huyện Đông Anh, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Huyện Đông Anh, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Huyện Đông Anh, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Huyện Đông Anh, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Huyện Đông Anh, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Huyện Đông Anh, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Huyện Gia Lâm, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Huyện Hoài Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Huyện Mê Linh, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Huyện Mê Linh, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Huyện Mê Linh, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Huyện Mê Linh, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Huyện Mê Linh, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Huyện Mê Linh, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Huyện Mê Linh, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Huyện Mê Linh, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Huyện Mê Linh, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Huyện Mê Linh, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Huyện Mê Linh, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Huyện Mê Linh, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Huyện Mê Linh, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Huyện Mê Linh, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Huyện Mê Linh, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Huyện Mê Linh, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Huyện Mê Linh, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Huyện Mê Linh, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Huyện Mê Linh, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Huyện Mê Linh, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Huyện Mê Linh, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Huyện Mê Linh, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Huyện Mê Linh, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Huyện Mê Linh, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Huyện Mỹ Đức, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Huyện Phú Xuyên, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Huyện Phúc Thọ, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Huyện Quốc Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Huyện Sóc Sơn, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Huyện Thạch Thất, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Huyện Thanh Oai, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Huyện Thanh Trì, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Huyện Thường Tín, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Huyện Thường Tín, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Huyện Thường Tín, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Huyện Thường Tín, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Huyện Thường Tín, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Huyện Thường Tín, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Huyện Thường Tín, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Huyện Thường Tín, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Huyện Thường Tín, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Huyện Thường Tín, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Huyện Thường Tín, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Huyện Thường Tín, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Huyện Thường Tín, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Huyện Thường Tín, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Huyện Thường Tín, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Huyện Thường Tín, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Huyện Thường Tín, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Huyện Thường Tín, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Huyện Thường Tín, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Huyện Thường Tín, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Huyện Thường Tín, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Huyện Thường Tín, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Huyện Thường Tín, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Huyện Thường Tín, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
+2025-03-25 00:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Clear,clear-night,83.1,N/A
+2025-03-25 01:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Clear,clear-night,88.35,N/A
+2025-03-25 02:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 03:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 04:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Clear,clear-night,93.97,N/A
+2025-03-25 05:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,93.97,N/A
+2025-03-25 06:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 07:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 08:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Overcast,cloudy,88.35,N/A
+2025-03-25 09:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 10:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Overcast,cloudy,83.1,N/A
+2025-03-25 11:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,78.2,N/A
+2025-03-25 12:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.35,N/A
+2025-03-25 13:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.54,N/A
+2025-03-25 14:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Clear,clear-day,65.55,N/A
+2025-03-25 15:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 16:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 17:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,65.55,N/A
+2025-03-25 18:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Partially cloudy,partly-cloudy-day,69.73,N/A
+2025-03-25 19:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Clear,clear-night,69.54,N/A
+2025-03-25 20:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.54,N/A
+2025-03-25 21:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,65.13,N/A
+2025-03-25 22:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,69.15,N/A
+2025-03-25 23:00:00,"Huyện Ứng Hòa, Việt Nam",0.0,Partially cloudy,partly-cloudy-night,73.45,N/A
