@@ -37,7 +37,8 @@ Where:
 - `{date}`: The specific date to retrieve data for (e.g., "2023-03-25").
 - `{api_key}`: The key used to authenticate and access the API.
 
-The response from the API is in **JSON** format, which contains detailed information about the weather conditions, including humidity, precipitation, and other hourly metrics. //Link_example_respon
+The response from the API is in **JSON** format, which contains detailed information about the weather conditions, including humidity, precipitation, and other hourly metrics. 
+[Response Example](./sample_response.json)
 
 You can view the complete code for crawling weather data using the Visual Crossing API in the following //link to code.
 
@@ -52,7 +53,8 @@ The `extract_info()` function processes the raw JSON data by looping through the
     
 3. **Saving Data to File:**
 The function `save_data_to_local()` saves the processed weather data to a CSV file and a JSON file, with each row representing hourly weather data. The filename includes the date of the data being saved (e.g., `weather_data_2023-03-25.csv`). 
-4. Link code. 
+4. [Link Code: crawl.py](./crawl.py)
+5. [Check out the output results here!](./weather_data_2023-03-25.csv) 
 
 ### **Optional Enhancement: Schedule the Script to Run Daily**
 
@@ -90,6 +92,7 @@ You can verify that the cron job was added successfully by running:
 ---
 
 ## Part 2: EDA
+[Link to Code (Q1, Q2, Q3)](./EDA.ipynb)
 
 ### Q1. Clean data and filter Outliers
 
@@ -143,9 +146,7 @@ This script calculates the total number of items purchased and the total price f
 1. The data is first processed to extract the year and month from the `TransactionTime`.
 2. The total number of items purchased and the total price (calculated as `NumberOfItemsPurchased * CostPerItem`) are then calculated for each month.
 
-**Code**: Link to Code
-
-**Output File**: Link to Output File
+[Output file](./data/total_by_month)
 
 ### Q3. Calculate the number of items purchased for each userID in 30 days for each day
 
@@ -156,12 +157,10 @@ This script calculates the total number of items purchased by each `UserID` for 
 1. The data is processed to filter transactions within the last 30 days.
 2. The number of items purchased by each `UserID` is summed for each day.
 
-**Code**: Link to Code
-
-**Output File**: Link to Output File
+[Output file](./data/30days)
 
 ### Q4. Recommendation system with the goal of purchasing more items
-
+[Link Code](./recommendation.ipynb)
 **Hybrid Approach Strategy:**
 
 1. **Content-Based Filtering (CBF)**: This will provide recommendations based on item similarity derived from product descriptions.
