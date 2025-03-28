@@ -160,8 +160,7 @@ This script calculates the total number of items purchased by each `UserID` for 
 [Output file](./data/30days)
 
 ### Q4. Recommendation system with the goal of purchasing more items
-[Link Code](./recommendation.ipynb)
-**Hybrid Approach Strategy:**
+**Hybrid Approach Strategy:**[Link Code](./recommendation.ipynb)
 
 1. **Content-Based Filtering (CBF)**: This will provide recommendations based on item similarity derived from product descriptions.
 2. **Collaborative Filtering (SVD)**: This will provide recommendations based on user-item interaction patterns (e.g., purchases).
@@ -192,7 +191,7 @@ We'll assign weights to both methods (e.g., 0.5 for each method), and then gener
     - Limited Diversity: Content-based models may only recommend similar items, leading to narrow suggestions.
     - Performance Issues: SVD-based models struggle with sparse data or small sample sizes.
 
-### Suggestions for Improvement:
+**Suggestions for Improvement:**
 
 - Data-Related:
     - Data Augmentation: Use implicit feedback (views, clicks) to enrich the dataset.
